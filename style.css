@@ -1,0 +1,30 @@
+.offer{
+  position: relative;
+  left:500px;
+}
+.carousel{
+position: relative;
+left:100px;
+}
+.footer{
+  background-color: aliceblue;
+  text-display: red;
+  text-align: center;
+    position: fixed;
+
+    overflow: hidden;
+    height: 8%;
+    width: 100%;
+    text-justify: inline;
+}
+body{
+    background-image: url(/home/abhishek/Desktop/bootstrap/img/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1600px 900px;
+}
+.photo{
+  position: relative;
+  left:50px;
+  text-display: infolink;
+}
